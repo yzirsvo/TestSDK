@@ -1,6 +1,6 @@
 # testSdk
 
-  /**
+    /**
      * 初始化蓝牙服务
      */
     public static void initBleService(Activity activity) {
