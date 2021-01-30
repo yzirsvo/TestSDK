@@ -8,7 +8,7 @@
     public static void initBleService(Activity activity) {
 
     }
-&emsp;
+
 
     /**
      * 注销蓝牙服务
